@@ -1,6 +1,5 @@
 # Chatbot - Building a Chatbot from Scratch
 
-
 This project is a chatbot developed from scratch using Python and TensorFlow. The chatbot is designed to interact with users and provide intelligent responses to their inputs. It utilizes a sequence-to-sequence model based on Long Short-Term Memory (LSTM) architecture to achieve accurate and engaging interactions.
 
 ## Table of Contents
