@@ -1,6 +1,5 @@
 # Chatbot - Building a Chatbot from Scratch
 
-![Chatbot](chatbot_image.jpg)
 
 This project is a chatbot developed from scratch using Python and TensorFlow. The chatbot is designed to interact with users and provide intelligent responses to their inputs. It utilizes a sequence-to-sequence model based on Long Short-Term Memory (LSTM) architecture to achieve accurate and engaging interactions.
 
@@ -15,11 +14,11 @@ This project is a chatbot developed from scratch using Python and TensorFlow. Th
 
 ## Introduction
 
-The main goal of this project is to create an AI-powered chatbot capable of understanding natural language inputs and generating contextually relevant responses. By using LSTM-based sequence-to-sequence models, the chatbot can retain important information over extended sequences, leading to more coherent and meaningful interactions with users.
+The main goal of this project is to create an AI-powered chatbot capable of understanding natural language inputs and generating contextually relevant responses. Using LSTM-based sequence-to-sequence models, the chatbot can retain important information over extended sequences, leading to more coherent and meaningful user interactions.
 
 ## Features
 
-- Natural Language Processing: The chatbot is capable of understanding and processing natural language inputs from users.
+- Natural Language Processing: The chatbot can understand and process natural language inputs from users.
 - LSTM-based Model: The chatbot's core architecture is based on LSTM-based sequence-to-sequence models for effective information retention.
 - Engaging Interactions: The chatbot generates contextually appropriate responses, making the conversations with users more engaging.
 - Python and TensorFlow: The project is implemented in Python using the TensorFlow framework for efficient machine learning computations.
