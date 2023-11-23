@@ -2,6 +2,7 @@
 
 This project is a chatbot developed from scratch using Python and TensorFlow. The chatbot is designed to interact with users and provide intelligent responses to their inputs. It utilizes a sequence-to-sequence model based on Long Short-Term Memory (LSTM) architecture to achieve accurate and engaging interactions.
 
+See it in my [blog](https://my-personal-website-git-main-giabaocorn20.vercel.app/blog/Build-a-chatbot-with-me). 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
